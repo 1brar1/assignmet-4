@@ -10,6 +10,7 @@ namespace assignmet_4
     {
         static void Main(string[] args)
         {
+            ArrayList Beowulf;
         }
     }
 }
